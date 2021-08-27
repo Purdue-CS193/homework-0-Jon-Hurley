@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 This is going well so far!
 
-**Bold** BOLDED
+**BOLDED**
 
 ### Jekyll Themes
 
